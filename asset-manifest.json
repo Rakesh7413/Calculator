@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rakesh7413.github.io/Calculator/static/css/main.9395124c.css",
+    "main.js": "/Rakesh7413.github.io/Calculator/static/js/main.4706ce46.js",
+    "index.html": "/Rakesh7413.github.io/Calculator/index.html",
+    "main.9395124c.css.map": "/Rakesh7413.github.io/Calculator/static/css/main.9395124c.css.map",
+    "main.4706ce46.js.map": "/Rakesh7413.github.io/Calculator/static/js/main.4706ce46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9395124c.css",
+    "static/js/main.4706ce46.js"
+  ]
+}
